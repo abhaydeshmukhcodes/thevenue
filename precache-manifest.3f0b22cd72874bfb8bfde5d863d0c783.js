@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7bfa7c08fcfca010c5de",
-    "url": "/thevenue/static/css/main.b6121231.chunk.css"
+    "revision": "e3b9f374c8483e5b090d",
+    "url": "/thevenue/static/css/main.c51104b8.chunk.css"
   },
   {
-    "revision": "7bfa7c08fcfca010c5de",
-    "url": "/thevenue/static/js/main.dd73a0f0.chunk.js"
+    "revision": "e3b9f374c8483e5b090d",
+    "url": "/thevenue/static/js/main.2cd1ba28.chunk.js"
   },
   {
     "revision": "2dfd02fe05d7b2c52a81",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/thevenue/static/media/slide_three.9aa09a50.jpg"
   },
   {
-    "revision": "0bf39e96fa495f5f9b6c1ff5781803dd",
+    "revision": "7b1c06618e99906faa5cb12b69e76270",
     "url": "/thevenue/index.html"
   }
 ];
